@@ -3,7 +3,7 @@ package projeto.aulas;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
-import projeto.aulas.model.User; // Importe a classe correta
+import projeto.aulas.model.User; 
 import projeto.aulas.repository.UserRepository;
 
 @Component
